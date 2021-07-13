@@ -21,6 +21,7 @@ vpn
 翻译划词软件
 
 -  bob https://ripperhe.gitee.io/bob/#/service/
+-  虚拟机 VMware Fusion
 
 隐藏工具设置
 
