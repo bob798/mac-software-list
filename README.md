@@ -51,6 +51,8 @@ vpn
 - clear my mac 系统清理工具
 - istat menu 状态栏系统信息
 - clear my mac 系统清理工具
+- hidden bar 菜单栏隐藏
+- xnip 截图
 
 必备软件
 - QQ
